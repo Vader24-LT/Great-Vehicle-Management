@@ -8,8 +8,6 @@ features
 Installation
 
 Usage
-https://github.com/Vader24-LT/Great-Vehicle-Management/blob/main/README.md
-Contributing
 
 Features
 Create new vehicles (car, truck, motorbike) with detailed information.
@@ -23,9 +21,7 @@ Interactive command-line interface for user input.
 Extensible design for adding new vehicle types or actions in the future.
 
 Installation
-Clone the repository:
 
-git clone https://github.com/your-username/vehicle-management-app.git
 Navigate to the project directory:
 
 cd vehicle-management-app
@@ -37,7 +33,7 @@ Run the application:
 npm start  # or python main.py, etc
 
 Usage
-[https://drive.google.com/file/d/1czocOHCslS2YEukwnHD7BCzLDbshUdt1/view](https://drive.google.com/file/d/1czocOHCslS2YEukwnHD7BCzLDbshUdt1/view?usp=sharing)
+[[https://drive.google.com/file/d/1czocOHCslS2YEukwnHD7BCzLDbshUdt1/view](https://drive.google.com/file/d/1czocOHCslS2YEukwnHD7BCzLDbshUdt1/view?usp=sharing)](https://drive.google.com/file/d/1czocOHCslS2YEukwnHD7BCzLDbshUdt1/view)
 
 Contributing
 Contributions are welcome! 
