@@ -37,7 +37,7 @@ Run the application:
 npm start  # or python main.py, etc
 
 Usage
-<iframe src="https://drive.google.com/file/d/1czocOHCslS2YEukwnHD7BCzLDbshUdt1/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1czocOHCslS2YEukwnHD7BCzLDbshUdt1/view
 
 Contributing
 Contributions are welcome! 
