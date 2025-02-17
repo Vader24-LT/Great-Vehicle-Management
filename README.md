@@ -37,7 +37,7 @@ Run the application:
 npm start  # or python main.py, etc
 
 Usage
-https://drive.google.com/file/d/1czocOHCslS2YEukwnHD7BCzLDbshUdt1/view
+[https://drive.google.com/file/d/1czocOHCslS2YEukwnHD7BCzLDbshUdt1/view](https://drive.google.com/file/d/1czocOHCslS2YEukwnHD7BCzLDbshUdt1/view?usp=sharing)
 
 Contributing
 Contributions are welcome! 
