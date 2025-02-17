@@ -1,4 +1,5 @@
 Vehicle Management Application
+
 This is a command-line application that allows users to create, manage, and interact with different types of vehicles (cars, trucks, and motorbikes). The application has been updated to include additional vehicle types and improve usability.
 
 Table of Contents
